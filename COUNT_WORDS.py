@@ -4,3 +4,7 @@ ls=sent.split(' ')
 d={x.rstrip():ls.count(x) for x in ls}
 print d
 print "THE TOTAL NUMBER OF WORDS IN FILE ARE:"+" "+str(len(ls))
+
+
+
+"""THIS IS 1st COMMIT"""""
