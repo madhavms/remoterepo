@@ -8,3 +8,9 @@ print "THE TOTAL NUMBER OF WORDS IN FILE ARE:"+" "+str(len(ls))
 
 
 """THIS IS 1st COMMIT"""""
+
+
+
+
+
+"""THIS IS 2nd COMMIT"""""
