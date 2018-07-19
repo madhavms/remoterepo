@@ -1,3 +1,5 @@
+""""THIS IS A CODE FOR BINARY SEARCH"""
+
 import random
 a=raw_input("ENTER NUMBER TO BE SEARCHED:")
 ls=[]
