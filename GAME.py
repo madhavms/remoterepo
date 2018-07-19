@@ -51,4 +51,6 @@ while (x):
         print "CONGRATS! THE WORD IS FOUND"
         break
 
+""""HELLO THIS IS A PYTHON CODE""""
+
 
